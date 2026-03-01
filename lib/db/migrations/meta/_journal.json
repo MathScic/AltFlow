@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772375709194,
+      "tag": "0000_ambitious_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772376854342,
+      "tag": "0001_lively_raza",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772377505515,
+      "tag": "0002_massive_adam_warlock",
+      "breakpoints": true
+    }
+  ]
+}
